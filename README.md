@@ -1,6 +1,8 @@
 ## Simple & Powerful Recruitment Software for Small Businesses
 JuggleHire is a recruitment software solution designed to simplify the hiring process for busy professionals. It's aimed at making the hiring journey easy and efficient, catering to recruiters, founders, small businesses owners, and HR professionals.
 
+[Get JuggleHire Today](https://jugglehire.com)
+
 ## Features
 - Job Posting and Management
 - Candidate Application Management
