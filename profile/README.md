@@ -3,6 +3,10 @@ JuggleHire is a recruitment software solution designed to simplify the hiring pr
 
 [Get JuggleHire Today](https://jugglehire.com)
 
+
+![JuggleHire](https://github.com/JuggleHire/.github/assets/33604077/d9b45d59-84d3-4ce9-9d88-c9e8e488c2ad)
+
+
 ## Features
 - Job Posting and Management
 - Candidate Application Management
